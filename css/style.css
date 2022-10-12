@@ -272,8 +272,6 @@ button{
 	transition: .4s; 
 }
 button:hover{
-    padding-top: 20px;
-    margin-bottom: 500px;
 	background-color: transparent;
 	border: 2px solid #f9004d;
 	cursor: pointer;
